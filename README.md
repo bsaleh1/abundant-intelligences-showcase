@@ -1,7 +1,7 @@
 # abundant-intelligences-showcase
 ## Planetary FPS Controller
 
-**File:** `Assets/Scripts/FPSphere.cs`  
+**File:** `FPSphere.cs`  
 This script implements a **custom first-person controller** designed for movement on a **spherical planet**.  
 It replaces Unity’s default gravity with a **custom directional gravity system** that aligns the player to the planet’s surface.  
 
